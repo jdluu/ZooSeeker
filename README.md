@@ -3,7 +3,7 @@
 ### Description
 ZooSeeker is an Android application that allows for users to plan out a day at the San Diego Zoo, complete with an optimized path through their selected exhibits.
 
-## Product Spec
+## Project Spec
 
 This app was made in a team of 6 with the agile methodology of Kanban over the course of April 2022 - May 2022.
 
