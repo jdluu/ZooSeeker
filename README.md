@@ -19,7 +19,7 @@ https://app.zenhub.com/workspaces/team-60-project-6261b2c5751169001d6551f4/board
 https://docs.google.com/document/d/1Im56aqYsFOYT63fitK6gazUwkZTcd8ZGiDBOlC26m0I/edit?usp=sharing
 
 ## Wireframes
-<img src="navigation_flows.jpeg" width=600>
+<img src="zooseekerwf.png" width=600>
 
 ### Reflectiona and Future Considerations:
 
