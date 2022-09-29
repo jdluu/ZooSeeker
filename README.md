@@ -40,3 +40,7 @@ https://docs.google.com/document/d/1Im56aqYsFOYT63fitK6gazUwkZTcd8ZGiDBOlC26m0I/
 
 ### Reflections and Future Considerations:
 
+This project was my introduction into the world of agile software development. I learned a lot amount planning out iterations, working in groups, as well as when to pivot in order to have deliverables ready for each sprint. My role varied according to the needs of our team, but I spent the most time as a project manager and lead tester for our project. These roles gave me some experience in communication as well as continuous integration and android testing frameworks like Espresso.
+
+If I had more time, I would have spent more time on the user experience of this project. We didn't work on the user experience or user interface of this project in order to meet our mvp as well as implement all of our user stories. However, it may be a better idea to cut out less essential features and improve upon the user experience of the core features.
+
